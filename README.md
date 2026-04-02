@@ -1,1 +1,0 @@
-# AzureDevops25Daycourse
